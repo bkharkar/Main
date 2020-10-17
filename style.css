@@ -1,0 +1,23 @@
+
+
+.row{
+    background-color: hsl(85, 91%, 87%);
+}
+
+.col-3{
+    font-size: 0.7rem;
+}
+
+.col-2{
+    font-size: 0.8rem;
+}
+
+.col-7{
+    font-size: 0.8rem;
+}
+
+.h9, h9 {
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: green;
+}
